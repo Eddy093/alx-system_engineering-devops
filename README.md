@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-for system engineers
+#!/bin/bash
+basic knowledge about system development
